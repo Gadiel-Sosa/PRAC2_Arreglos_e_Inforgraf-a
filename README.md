@@ -1,1 +1,1 @@
-# PRAC2_Arreglos_e_Inforgraf-a
+# PRAC2_Arreglos_e_Inforgrafia
